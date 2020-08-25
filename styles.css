@@ -1,0 +1,31 @@
+#fact {
+  font-style: italic;
+}
+
+.label {
+  font-weight: bold;
+}
+
+#card-container {
+  border: 1px solid #000;
+  padding: 10px;
+  width: 400px;
+  margin:10px auto;
+
+}
+
+#info-container {
+  border: 1px solid #000;
+  padding: 10px;
+
+}
+
+#card-container img {
+  width: 300px;
+  margin: 10px auto;
+  display: block;
+}
+
+li {
+  list-style-type: none;
+}
